@@ -1,0 +1,31 @@
+h1{
+    background-color: #EBF4AB;
+    font-family:"Helvetica";
+    text-align: center;
+  }
+  
+img{
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+
+h2{
+    font-family:"Helvetica";
+    text-align: center;
+  }
+  
+ul {
+    margin: 0 auto;
+    max-width: 400px;
+    width: 100%;
+    font-family:"Arial";
+  }
+  
+ol {
+    margin: 0 auto;
+    max-width: 400px;
+    width: 100%;
+    font-family:"Arial";
+  }
+  
